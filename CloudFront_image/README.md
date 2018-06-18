@@ -17,3 +17,10 @@
 ![step_17](https://user-images.githubusercontent.com/26675063/41498959-d4ee7a76-71b3-11e8-8127-12ed14cd38b1.png)
 ![step_18](https://user-images.githubusercontent.com/26675063/41498960-d5f874d0-71b3-11e8-80f6-42494d6d5dd4.png)
 ![step_19](https://user-images.githubusercontent.com/26675063/41498961-d7f080de-71b3-11e8-91b4-41583ab3cc9c.png)
+---
+# 추가 사항
+---
+18.06.18 awskrug 구디 모임에서 한진님께서 알려주신 CNAME 대신 A Alias로 CloudFront의 Alternate Domain Name을 세팅하는 방법을 추가합니다.
+<br>
+![step_add_alias](https://user-images.githubusercontent.com/26675063/41544380-855627ce-7353-11e8-811b-49431915c8bd.png)
+ 
